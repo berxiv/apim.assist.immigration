@@ -1,2 +1,2 @@
 # apim.assist.immigration
-# Subdomain Takeover Check
+# This page will be fixed soon :)
